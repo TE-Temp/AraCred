@@ -4,7 +4,7 @@ on:
   # Trigger on merging to master.
   push:
     branches:
-      - schedule
+      - master
   # Runs the CLI At 00:00 on Sunday.
   schedule:
     - cron: 0 0 * * 0
