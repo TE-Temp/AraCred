@@ -26,6 +26,22 @@
     ],
     "repoIds": [
       {
+        "name": "cadCAD",
+        "owner": "BlockScience"
+      },
+      {
+        "name": "conviction",
+        "owner": "BlockScience"
+      },
+      {
+        "name": "cadCAD-Tutorials",
+        "owner": "BlockScience"
+      },
+      {
+        "name": "uniswap",
+        "owner": "BlockScience"
+      },
+      {
         "name": "AraCred",
         "owner": "TokenEngineeringCommunity"
       },
