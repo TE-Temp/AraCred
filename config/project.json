@@ -6,7 +6,7 @@
   {
     "id": "@AraCred",
     "discord": {
-      "guildId": "695344751490236486",
+      "guildId": "701149241107808327",
       "reactionWeights": {
         "👍": 1,
         "🔥": 1,
@@ -141,48 +141,24 @@
     ],
     "repoIds": [
       {
-        "name": "AraCred",
-        "owner": "aracred"
+        "name": "MVP-Workshop",
+        "owner": "TokenEngineeringCommunity"
       },
       {
-        "name": "website",
-        "owner": "aracred"
+        "name": "Common-DEX",
+        "owner": "TokenEngineeringCommunity"
       },
       {
-        "name": "bot",
-        "owner": "aracred"
+        "name": "TrojanDAO",
+        "owner": "TokenEngineeringCommunity"
       },
       {
-        "name": "onboarding",
-        "owner": "aracred"
+        "name": "Connect2Evolve-Lastwatt",
+        "owner": "TokenEngineeringCommunity"
       },
       {
-        "name": "TheSource",
-        "owner": "aracred"
-      },
-      {
-        "name": "governance",
-        "owner": "aracred"
-      },
-      {
-        "name": "comms",
-        "owner": "aracred"
-      },
-      {
-        "name": "leaderboard",
-        "owner": "aracred"
-      },
-      {
-        "name": "aracred-cli",
-        "owner": "aracred"
-      },
-      {
-        "name": "aracred-init",
-        "owner": "aracred"
-      },
-      {
-        "name": "aracred-template",
-        "owner": "aracred"
+        "name": "TEcase1_Energy_Connect2Evolve",
+        "owner": "TokenEngineeringCommunity"
       }
     ]
   }
