@@ -30,10 +30,10 @@
           "discord/250086586450968576",
           "discourse/mzargham"
         ]
-      },
+      }
     ],
     "discourseServer": {
-    "serverUrl": "https://community.cadcad.org/"
+      "serverUrl": "https://community.cadcad.org/"
     },
     "repoIds": [
       {
