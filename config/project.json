@@ -32,6 +32,9 @@
         ]
       },
     ],
+    "discourseServer": {
+    "serverUrl": "https://community.cadcad.org/"
+    },
     "repoIds": [
       {
         "name": "cadCAD",
