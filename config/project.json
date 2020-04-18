@@ -26,6 +26,10 @@
     ],
     "repoIds": [
       {
+        "name": "AraCred",
+        "owner": "TokenEngineeringCommunity"
+      },
+      {
         "name": "MVP-Workshop",
         "owner": "TokenEngineeringCommunity"
       },
