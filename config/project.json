@@ -76,6 +76,10 @@
       {
         "name": "TEcase1_Energy_Connect2Evolve",
         "owner": "TokenEngineeringCommunity"
+      },
+      {
+        "name": "rig",
+        "owner": "ethereum"
       }
     ]
   }
