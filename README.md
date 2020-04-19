@@ -4,6 +4,7 @@
 <br>
 
 ![TE Logo](https://avatars1.githubusercontent.com/u/56689987?s=200&v=4)
+![AraCred Logo](https://avatars3.githubusercontent.com/u/63201387?s=200&v=4)
 
 # TE Commons
 
@@ -12,8 +13,6 @@ Currently AraCred is running on:
 - [TE Discord](https://discord.gg/gHvksh8)
 - [TE GitHub](https://github.com/TokenEngineeringCommunity/)
 - [BlockScience CadCAD repos](https://github.com/BlockScience/)
-
-![AraCred Logo](https://avatars3.githubusercontent.com/u/63201387?s=200&v=4)
 
 # TE Commons DAO
 
