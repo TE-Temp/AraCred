@@ -16,7 +16,7 @@ Currently AraCred is running on:
 
 # TE Commons DAO
 
-The DAO that AraCred is currently minting tokens for is the [tecommons DAO](https://mainnet.aragon.org/#/tecommons/). AraCred is set to mint once per week, which at the time of writing is the default miniting period for SourceCred periods. This way we only mint tokens for the cred earned that weeek vs minting tokens for the total cred each time.  
+The DAO that AraCred is currently minting tokens for is the [TE Commons DAO](https://mainnet.aragon.org/#/tecommons/). AraCred is set to mint once per week, which at the time of writing is the default miniting period for SourceCred periods. This way we only mint tokens for the cred earned that weeek vs minting tokens for the total cred each time.  
 
 # AraCred Deployment
 
