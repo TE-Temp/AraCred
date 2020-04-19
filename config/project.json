@@ -86,7 +86,19 @@
       {
         "name": "rig",
         "owner": "ethereum"
-      }
+      },
+      {
+        "name": "ixo-liquidity-mechanism",
+        "owner": "BenSchZA"
+      },
+      {
+        "name": "system-modelling",
+        "owner": "BenSchZA"
+      },
+      {
+        "name": "awesome-bonding",
+        "owner": "BenSchZA"
+      },
     ]
   }
 ]
