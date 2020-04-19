@@ -13,6 +13,8 @@ Currently AraCred is running on:
 - [TE Discord](https://discord.gg/gHvksh8)
 - [TE GitHub](https://github.com/TokenEngineeringCommunity/)
 - [BlockScience CadCAD repos](https://github.com/BlockScience/)
+- Additionally repos from trail blazing token engineers! 
+If your work includes cadCAD modeling of token economies, protocols or web3 platforms feel free to submit a pull request for inclusion in the repo list found in https://github.com/TokenEngineeringCommunity/AraCred/blob/master/config/project.json. We'll review the repo and approve the pull request if its found to be a good fit for this community.
 
 # TE Commons DAO
 
