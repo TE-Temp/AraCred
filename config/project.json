@@ -123,6 +123,10 @@
       {
         "name": "conviction",
         "owner": "commons-stack"
+      },
+      {
+        "name": "tokeneconomics",
+        "owner": "aracred"
       }
     ]
   }
