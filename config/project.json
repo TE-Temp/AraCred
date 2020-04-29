@@ -49,7 +49,8 @@
       }
     ],
     "discourseServer": {
-      "serverUrl": "https://community.cadcad.org"
+      "serverUrl": "https://community.cadcad.org",
+      "serverUrl": "https://forum.metagame.wtf"
     },
     "repoIds": [
       {
