@@ -46,10 +46,15 @@
         "aliases": [
           "github/BenSchZA"
         ]
+      },
+      {
+        "username": "drllau",
+        "aliases": [
+          "github/gemwise-invests"
+        ]
       }
     ],
     "discourseServer": {
-      "serverUrl": "https://community.cadcad.org",
       "serverUrl": "https://forum.metagame.wtf"
     },
     "repoIds": [
