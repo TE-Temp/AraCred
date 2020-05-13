@@ -133,6 +133,14 @@
       {
         "name": "tokeneconomics",
         "owner": "aracred"
+      },
+      {
+        "name": "TE-Book",
+        "owner": "Freeelio"
+      },
+      {
+        "name": "electraseed-fund",
+        "owner": "Freeelio"
       }
     ]
   }
