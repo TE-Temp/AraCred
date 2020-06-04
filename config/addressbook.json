@@ -43,5 +43,10 @@
     "name": "dawg",
     "createdAt": 1591275819080,
     "address": "0x82AbE3222b8cE7aD6bC49Da063f959C8b47AbC94"
+  },
+  {
+    "name": "le-dawg",
+    "createdAt": 1591275869811,
+    "address": "0x82AbE3222b8cE7aD6bC49Da063f959C8b47AbC94"
   }
 ]
