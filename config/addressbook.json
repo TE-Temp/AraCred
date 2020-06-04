@@ -38,5 +38,10 @@
     "name": "capeflow",
     "createdAt": 1591273057530,
     "address": "0x36Ba7b0216953316b627D2f4270D9c007288dF32"
+  },
+  {
+    "name": "dawg",
+    "createdAt": 1591275819080,
+    "address": "0x82AbE3222b8cE7aD6bC49Da063f959C8b47AbC94"
   }
 ]
