@@ -73,5 +73,10 @@
     "name": "monstrosity",
     "createdAt": 1604203173863,
     "address": "0x2418e5454B75e18a2C7a849aeCCFCD03f67731C3"
+  },
+  {
+    "name": "berserk",
+    "createdAt": 1604227563585,
+    "address": "0x93A06fF592adCb6D0EaB82a88DB52D3329541Bb8"
   }
 ]
