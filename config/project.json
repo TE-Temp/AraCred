@@ -108,6 +108,14 @@
           "github/solsista",
           "discord/solsista"
         ]
+      },
+      {
+        "username": "monstrosity",
+        "aliases": [
+          "github/Monstrosity1",
+          "discord/monstrosity#5714",
+          "discourse/Monstrosity"
+        ]
       }
     ],
     "discourseServer": {
