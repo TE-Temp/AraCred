@@ -124,6 +124,13 @@
           "discord/berserk#9065",
           "discourse/berserk"
         ]
+      },
+      {
+        "username": "jv",
+        "aliases": [
+          "github/joshuavial",
+          "discord/jv#5482"
+        ]
       }
     ],
     "discourseServer": {
