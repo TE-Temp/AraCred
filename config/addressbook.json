@@ -78,5 +78,10 @@
     "name": "berserk",
     "createdAt": 1604227563585,
     "address": "0x93A06fF592adCb6D0EaB82a88DB52D3329541Bb8"
+  },
+  {
+    "name": "jv",
+    "createdAt": 1604431514333,
+    "address": "0xB398d63948892F52f46a4C9b540F2fB17618E016"
   }
 ]
