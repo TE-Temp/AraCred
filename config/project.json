@@ -131,6 +131,12 @@
           "github/joshuavial",
           "discord/jv#5482"
         ]
+      },
+      {
+        "username": "tweetious",
+        "aliases": [
+          "discord/tweetious#0001"
+        ]
       }
     ],
     "discourseServer": {
